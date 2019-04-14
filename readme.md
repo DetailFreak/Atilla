@@ -1,5 +1,5 @@
 Atilla
 -------
 
-#Atilla is a 2d particle system based on LibGDX.
+Atilla is a 2d particle engine based on LibGDX.
 
